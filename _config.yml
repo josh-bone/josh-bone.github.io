@@ -1,2 +1,4 @@
 name: Josh Bone
 markdown: kramdown
+
+theme: jekyll-theme-slate
