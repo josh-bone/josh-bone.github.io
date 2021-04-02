@@ -1,7 +1,7 @@
 ---
 title: "Electrical and Optical Modeling of Electrode Configuration for Optimal Dust Removal in Electrodynamic Screens (EDS)"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-Electrical-and-Optical-Modeling
 excerpt: 'Electrodynamic Screen modeling results '
 date: 2009-10-01
 venue: 'IEEE PVSC'
