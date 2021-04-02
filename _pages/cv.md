@@ -18,7 +18,7 @@ Work experience
 * Sep 2019 - May 2020: Teaching Assistant
   * Boston University
   * Duties included: Simulating and modeling device designs
-  * Supervisors: Dr. Vivek Goyal & Dr. David Casta\tilde{n}on
+  * Supervisors: Dr. Vivek Goyal & Dr. David Casta$~{n}$on
  
 * Summer 2019: Research Assistant
   * Boston University
