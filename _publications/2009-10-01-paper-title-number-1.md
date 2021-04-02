@@ -8,7 +8,7 @@ venue: 'IEEE PVSC'
 paperurl: ''
 citation: 'Joshua Bone et. al, (2019). Electrical and Optical Modeling of Electrode Configuration for Optimal Dust Removal in Electrodynamic Screens (EDS). IEEE-PVSC 46 Conference'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about my modeling experiments which informed certain design choices in our design of the Electrodynamic Screen thin film technology.
 
 [Download paper here](https://ieeexplore.ieee.org/document/8981229)
 
