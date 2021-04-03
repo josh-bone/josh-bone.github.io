@@ -16,9 +16,9 @@ Education
 Work experience
 ======
 * Sep 2019 - May 2020: Teaching Assistant
-  * Boston University
-  * Duties included: Simulating and modeling device designs
-  * Supervisors: Dr. Vivek Goyal & Dr. David Casta$~{n}$on
+  * Boston University EK381 - Probability, Statistics, and Data Science for Engineers
+  * Duties included: Grading and instructing undergraduate students during weekly homework help sessions
+  * Supervisors: Dr. Vivek Goyal & Dr. David Castanon
  
 * Summer 2019: Research Assistant
   * Boston University
