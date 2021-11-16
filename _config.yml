@@ -14,7 +14,7 @@ description              : &description "PhD Student at Northeastern University"
 url                      : https://josh-bone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "josh-bone/josh-bone.github.io"
-teaser                   : "linkedInPhoto.jpg"
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
