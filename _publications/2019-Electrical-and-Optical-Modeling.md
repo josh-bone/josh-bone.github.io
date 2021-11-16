@@ -3,7 +3,7 @@ title: "Electrical and Optical Modeling of Electrode Configuration for Optimal D
 collection: publications
 permalink: /publication/2019-Electrical-and-Optical-Modeling
 excerpt: 'Electrodynamic Screen modeling results '
-date: 2009-10-01
+date: 2019-10-01
 venue: 'IEEE PVSC'
 paperurl: ''
 citation: 'Joshua Bone et. al, (2019). Electrical and Optical Modeling of Electrode Configuration for Optimal Dust Removal in Electrodynamic Screens (EDS). IEEE-PVSC 46 Conference'
