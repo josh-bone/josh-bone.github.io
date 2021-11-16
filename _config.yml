@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Josh Bone"
-  avatar           : "profile.png"
-  bio              : "PhD Student at Northeastern University, studying machine learning and computer vision"
+  avatar           : "linkedInPhoto.jpg"
+  bio              : "PhD Student studying machine learning and computer vision"
   location         : "Boston, MA"
-  employer         :
+  employer         : "Northeastern University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cwUkEJ8AAAAJ&hl=en"
   email            : "bone.j@northeastern.edu"
