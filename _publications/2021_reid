@@ -2,14 +2,13 @@
 title: "Geometry-Based Person Re-Identification in Fisheye Stereo"
 collection: publications
 permalink: 
-excerpt: ''
+excerpt: 'This is another paper I published during my undergraduate years at Boston University. It describes a technique to leverage the fixed geometry of a scene in order to perform person re-identification with multiple overhead fisheye cameras.'
 date: 2021-11-16
 venue: 'IEEE AVSS'
 paperurl: ''
 citation: 'J. Bone, M. Cokbas, O. Tezcan, J. Konrad and P. Ishwar, "Geometry-Based Person Re-Identification in Fisheye Stereo," 2021 17th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), 2021, pp. 1-10, doi: 10.1109/AVSS52988.2021.9663745.
 '
 ---
-This paper describes a technique to leverage the fixed geometry of a scene in order to perform person re-identification with multiple overhead fisheye cameras.
 
 [View paper here](https://ieeexplore.ieee.org/abstract/document/9663745?casa_token=pV1K4i3EdooAAAAA:06LkhC4DSDCNwnqu_rdpiSwTN2giuCrKGTNW8bvg1q6Ns6s81k9y65rzmo1ax23dmz4lvvVpVg)
 
