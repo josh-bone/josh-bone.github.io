@@ -31,7 +31,7 @@ Work experience
  
 * Summer 2019: Research Assistant
   * Boston University - Applied Electrodynamics Lab
-  * Supervisors: Dr. Malay Mazumder & Dr. Mark Horenstein
+  * Advisors: Dr. Malay Mazumder & Dr. Mark Horenstein
   
 Skills
 ======
