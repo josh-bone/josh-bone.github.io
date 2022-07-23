@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Enginnering, Boston University, 2021
+  * Magna Cum Laude
 
 Work experience
 ======
