@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 I am a PhD Student at Northeastern University, advised by Professor Jennifer Dy. 
+
+My areas of research include interpretability, computer vision, and domain adaptation. 
