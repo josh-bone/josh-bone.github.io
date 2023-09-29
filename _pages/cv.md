@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* M.S. in Electrical and Computer Engineering, Northeastern University, 2022
 * B.S. in Computer Enginnering, Boston University, 2021
   * Magna Cum Laude
 
