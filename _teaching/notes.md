@@ -7,8 +7,7 @@ date: 2024-1-17
 location: "Philadelphia, USA"
 ---
 
-As you may have seen from my other posts, I recently began privately tutoring. 
-As a part of this process, I have begun compiling a collection of notes for the various topics which I teach. 
+As a part of the tutoring process, I have begun compiling a collection of notes for the various topics which I teach. 
 These notes are helpful for a few different uses:
 - A reference for me
 - A reference for my students
