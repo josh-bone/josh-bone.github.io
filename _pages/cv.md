@@ -17,6 +17,15 @@ Education
 
 Work experience
 ======
+* Apr 2024 - Present: Developer Support Engineer
+  * InterSystems Corporation
+ 
+* Nov 2023 - Apr 2024: Tutor
+  * IntellaTutor
+ 
+* Sep 2021 - May 2023: Graduate Student Researcher
+  * Northeastern University
+ 
 * Oct 2019 - May 2021: Research Assistant
   * Boston University - Visual Information Processing Lab
   * Advisors: Dr. Janusz Konrad & Dr. Prakash Ishwar
