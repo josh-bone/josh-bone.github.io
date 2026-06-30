@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* PhD in Electrical and Computer Engineering, Northeastern University, 2023 (M.S. awarded en route)
+* M.S. in Electrical and Computer Engineering, Northeastern University, 2023
 * B.S. in Computer Engineering, Boston University, 2021
   * 3.91 GPA, Dean's List all semesters
 
