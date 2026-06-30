@@ -1,5 +1,5 @@
 ---
-title: "“Analyzing Explainer Robustness via Probabilistic Lipschitzness of Prediction Functions"
+title: "Analyzing Explainer Robustness via Probabilistic Lipschitzness of Prediction Functions"
 collection: publications
 permalink: /publication/2024-Robustness
 excerpt: 'This is a piece of theoretical work in explainable AI. It uses the concept of Lipschitzness from analysis to provide guarantees on the stability/robustness of explainer models.'
