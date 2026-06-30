@@ -1,84 +1,79 @@
-# Joshua Bone
-
-1120 Beacon St., Apt 3D, Brookline, MA 02446
-
-[jbone.data@gmail.com](mailto:jbone.data@gmail.com) · [linkedin.com/in/j-bone/](https://linkedin.com/in/j-bone/) · [github.com/josh-bone](https://github.com/josh-bone)
-
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
-## Experience
+{% include base_path %}
 
-**Hyannis Port Research** — Needham, MA
-*Applications Engineer 2* | Jan 2026 – Present
+Education
+======
 
-- Engineered internal tools using Python and Bash to automate deployment and reduce risk of manual error in production changes
-- Partnered with large investment banks to translate trading infrastructure issues into actionable technical requirements
+* PhD in Electrical and Computer Engineering, Northeastern University, 2023 (M.S. awarded en route)
+* B.S. in Computer Engineering, Boston University, 2021
+  * 3.91 GPA, Dean's List all semesters
 
-**InterSystems** — Boston, MA
-*Developer Support Engineer* | Apr 2024 – Present
+Work experience
+======
 
-- Provided technical guidance in various topics including SSL/TLS, networking, and system administration
-- Resolved over 115 L3 support issues, reducing downtime in production environments
-- 100% Customer satisfaction rating
+* Jan 2026 - Present: Applications Engineer 2
+  * Hyannis Port Research
+  * Duties included: engineering internal tools using Python and Bash to automate deployment and reduce risk of manual error in production changes; partnering with large investment banks to translate trading infrastructure issues into actionable technical requirements
 
-**IntellaTutor** — Philadelphia, PA
-*Math/Science/CS Tutor* | Nov 2023 – Apr 2024
+* Apr 2024 - Present: Developer Support Engineer
+  * InterSystems Corporation
 
-- Subjects taught: AP Calculus, AP Statistics, Pre-Calculus, Geometry, Computer Science
-- Designed individualized lesson plans for diverse learners, honing technical explanation skills
+* Nov 2023 - Apr 2024: Tutor
+  * IntellaTutor
 
-**Boston University** — Boston, MA
-*Research Assistant – Visual Information Processing* | Oct 2019 – May 2021
+* Sep 2021 - May 2023: Graduate Student Researcher
+  * Northeastern University
+  * Research focus: explainability in deep learning, with a focus on computer vision
 
-- Implemented deep learning algorithms for object detection on Raspberry Pi hardware using Intel OpenVINO tools for deep learning acceleration
-- Presented in weekly paper discussions
+* Oct 2019 - May 2021: Research Assistant
+  * Boston University - Visual Information Processing Lab
+  * Advisors: Dr. Janusz Konrad & Dr. Prakash Ishwar
 
-*Research Assistant – Applied Electrodynamics* | Oct 2017 – Jun 2019
+* Sep 2019 - May 2020: Teaching Assistant
+  * Boston University EK381 - Probability, Statistics, and Data Science for Engineers
+  * Duties included: Grading and instructing undergraduate students during weekly homework help sessions
+  * Supervisors: Dr. Vivek Goyal & Dr. David Castanon
 
-- Reduced cost and time waste by creating an optical model with MATLAB
-- Optimized design through electric field and particle tracing simulations with COMSOL Multiphysics
+* Summer 2020: Software Engineering Intern
+  * Cadence Design Systems, Inc.
+  * Duties included: migrating UI frameworks, visual bug-fixes in enterprise software
 
-**Cadence Design Systems** — Chelmsford, MA
-*Software Engineering Intern* | May 2019 – Aug 2019
+* Summer 2019: Research Assistant
+  * Boston University - Applied Electrodynamics Lab
+  * Advisors: Dr. Malay Mazumder & Dr. Mark Horenstein
 
-- Performed code reviews and optimized existing code (C/C++)
-- Worked with product managers to deliver new improvements to the user interface
+Skills
+======
 
----
+* C++, Python, MATLAB, Verilog, Bash, SQL, ObjectScript
+* Software
+  * Visual Studio
+  * Git
+  * COMSOL Multiphysics
+  * AWS (EC2, S3)
+* Libraries
+  * Numpy
+  * Pandas
+  * Pytorch
+  * OpenCV
+  * SQLAlchemy
 
-## Education
+Publications
+======
 
-**Northeastern University** — Boston, MA
-*PhD in Electrical and Computer Engineering — Awarded M.S. in Electrical and Computer Engineering* | Sep 2021 – May 2023
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-- **Research Focus:** Explainability in deep learning; funding project used convolutional neural networks for anomaly detection in computer vision
-- Studied interpretability techniques applicable to transformer architectures; course project on low-rank factorization of sparse matrices
+Peer Review
+======
 
-**Boston University** — Boston, MA
-*Bachelor of Science in Computer Engineering, 3.91 GPA* | Sep 2017 – May 2021
-
-- **Selected Coursework:** Applied Algorithms, Probability Statistics & Data Science, Stochastic Processes
-- **Awards:** Dean's List all semesters
-
----
-
-## Projects
-
-### Cross-Domain Recommendation Engine — *Personal Project* (2026)
-
-- Designed and built a recommendation system based on the thesis that user taste is cross-domain, implemented via a shared embedding space and matrix factorization in PyTorch
-- Independently built a full-stack application: FastAPI backend, PostgreSQL with pgvector for vector similarity search, and a React Native/Expo frontend
-
----
-
-## Technical Skills
-
-- **Languages:** Python, C/C++, Bash, SQL, ObjectScript
-- **Developer Tools:** Git, VS Code, AWS, Jira
-- **Technologies/Frameworks:** PyTorch, OpenCV, Pandas, NumPy
-
----
-
-## Selected Publications
-
-*[Auto-populated from publications.bib in the original document — add your publication list here, including the recently accepted AISTATS paper.]*
+* AVSS 2022
